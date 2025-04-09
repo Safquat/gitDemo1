@@ -1,1 +1,3 @@
-# gitDemo1 br my name is safquat nawaz
+# gitDemo1 
+my name is safquat nawaz
+I am a software developer
